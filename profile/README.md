@@ -1,7 +1,7 @@
 ## Mes Adresses
 
-- [api-bal](https://github.com/BaseAdresseNationale/api-bal)
 - [mes-adresses](https://github.com/BaseAdresseNationale/mes-adresses)
+- [mes-adresses-api](https://github.com/BaseAdresseNationale/mes-adresses-api)
 
 ## Plateforme BAN
 
