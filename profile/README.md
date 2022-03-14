@@ -5,9 +5,9 @@
 
 ## Plateforme BAN
 
-- ban-plateforme
-- api-depot
-- moissonneur-bal
+- [ban-plateforme](https://github.com/BaseAdresseNationale/ban-plateforme)
+- [api-depot](https://github.com/BaseAdresseNationale/api-depot)
+- [moissonneur-bal](https://github.com/BaseAdresseNationale/moissonneur-bal)
 
 ## API et briques utilitaires
 
