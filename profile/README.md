@@ -25,6 +25,7 @@
 
 ## Données sources
 
+- [Découpages administratifs](https://github.com/etalab/decoupage-administratif) 
 - codes-postaux
 - adresses-ftth
 - adresses-cadastre
