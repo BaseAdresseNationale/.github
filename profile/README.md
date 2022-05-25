@@ -11,17 +11,17 @@
 
 ## API et briques utilitaires
 
-- api-fantoir
-- fantoir-parser
-- gazetteer
+- [api-fantoir](https://github.com/BaseAdresseNationale/api-fantoir)
+- [fantoir-parser](https://github.com/BaseAdresseNationale/fantoir-parser)
+- [gazetteer](https://github.com/BaseAdresseNationale/gazetteer)
 - annuaire-api
-- bal
-- fantoir
-- iris
-- normadresse
+- [validateur-bal](https://github.com/BaseAdresseNationale/validateur-bal)
+- [fantoir](https://github.com/BaseAdresseNationale/fantoir)
+- [iris](https://github.com/BaseAdresseNationale/iris)
+- [normadresse](https://github.com/BaseAdresseNationale/normadresse)
 - js-normadresse
-- adresses-util
-- project-legal
+- [adresses-util](https://github.com/BaseAdresseNationale/adresses-util)
+- [project-legal](https://github.com/BaseAdresseNationale/project-legal)
 
 ## Données sources
 
@@ -36,4 +36,4 @@
 
 ## Site Web
 
-- adresse.data.gouv.fr
+- [adresse.data.gouv.fr](https://github.com/BaseAdresseNationale/adresse.data.gouv.fr)
