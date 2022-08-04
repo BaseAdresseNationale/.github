@@ -14,7 +14,7 @@
 - [api-fantoir](https://github.com/BaseAdresseNationale/api-fantoir)
 - [fantoir-parser](https://github.com/BaseAdresseNationale/fantoir-parser)
 - [gazetteer](https://github.com/BaseAdresseNationale/gazetteer)
-- annuaire-api
+- [annuaire-api](https://github.com/BaseAdresseNationale/annuaire-api)
 - [validateur-bal](https://github.com/BaseAdresseNationale/validateur-bal)
 - [fantoir](https://github.com/BaseAdresseNationale/fantoir)
 - [iris](https://github.com/BaseAdresseNationale/iris)
