@@ -33,7 +33,7 @@
 ## Géocodeur
 
 - [addok-docker](https://github.com/BaseAdresseNationale/addok-docker)
-- api-geocode
+- [api-geocode](https://github.com/BaseAdresseNationale/api-geocode/)
 
 ## Site Web
 
