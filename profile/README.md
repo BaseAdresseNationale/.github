@@ -27,8 +27,8 @@
 
 - [Découpages administratifs](https://github.com/etalab/decoupage-administratif) 
 - [codes-postaux](https://github.com/BaseAdresseNationale/codes-postaux)
-- adresses-ftth
-- adresses-cadastre
+- [adresses-ftth](https://github.com/BaseAdresseNationale/adresses-ftth)
+- [adresses-cadastre](https://github.com/BaseAdresseNationale/adresses-cadastre)
 
 ## Géocodeur
 
