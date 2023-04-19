@@ -2,18 +2,15 @@
 
 ## Interface
 - [adresse.data.gouv.fr](https://github.com/BaseAdresseNationale/adresse.data.gouv.fr)
-- [mes-adresses](https://github.com/BaseAdresseNationale/mes-adresses)
 - [bal-admin](https://github.com/BaseAdresseNationale/bal-admin)
+- [mes-adresses](https://github.com/BaseAdresseNationale/mes-adresses)
 
 ## API
-### Principales
+- [annuaire-api](https://github.com/BaseAdresseNationale/annuaire-api)
 - [api-depot](https://github.com/BaseAdresseNationale/api-depot)
+- [api-fantoir](https://github.com/BaseAdresseNationale/api-fantoir)
 - [ban-plateforme](https://github.com/BaseAdresseNationale/ban-plateforme)
 - [mes-adresses-api](https://github.com/BaseAdresseNationale/mes-adresses-api)
-
-### Secondaires
-- [api-fantoir](https://github.com/BaseAdresseNationale/api-fantoir)
-- [annuaire-api](https://github.com/BaseAdresseNationale/annuaire-api)
 
 ## Service
 - [moissonneur-bal](https://github.com/BaseAdresseNationale/moissonneur-bal)
