@@ -15,9 +15,7 @@
 ## Service
 - [moissonneur-bal](https://github.com/BaseAdresseNationale/moissonneur-bal)
 
-## Modules
-- [adresses-cadastre](https://github.com/BaseAdresseNationale/adresses-cadastre)
-- [adresses-ftth](https://github.com/BaseAdresseNationale/adresses-ftth)
+## Module
 - [adresses-util](https://github.com/BaseAdresseNationale/adresses-util)
 - [codes-postaux](https://github.com/BaseAdresseNationale/codes-postaux)
 - [Découpages administratifs](https://github.com/etalab/decoupage-administratif) 
@@ -31,6 +29,9 @@
 - [shared-data](https://github.com/BaseAdresseNationale/shared-data)
 - [validateur-bal](https://github.com/BaseAdresseNationale/validateur-bal)
 
-## Géocodeur
+## Script
+- [adresses-cadastre](https://github.com/BaseAdresseNationale/adresses-cadastre)
+- [adresses-ftth](https://github.com/BaseAdresseNationale/adresses-ftth)
 
+## Géocodeur
 - [addok-docker](https://github.com/BaseAdresseNationale/addok-docker)
