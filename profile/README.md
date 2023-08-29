@@ -10,6 +10,7 @@
 - [api-depot](https://github.com/BaseAdresseNationale/api-depot)
 - [api-fantoir](https://github.com/BaseAdresseNationale/api-fantoir)
 - [ban-plateforme](https://github.com/BaseAdresseNationale/ban-plateforme)
+- [id-fix](https://github.com/BaseAdresseNationale/id-fix)
 - [mes-adresses-api](https://github.com/BaseAdresseNationale/mes-adresses-api)
 
 ## Service
