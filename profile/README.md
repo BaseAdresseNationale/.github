@@ -4,6 +4,7 @@
 - [adresse.data.gouv.fr](https://github.com/BaseAdresseNationale/adresse.data.gouv.fr)
 - [bal-admin](https://github.com/BaseAdresseNationale/bal-admin)
 - [mes-adresses](https://github.com/BaseAdresseNationale/mes-adresses)
+- [bal-widget](https://github.com/BaseAdresseNationale/bal-widget)
 
 ## API
 - [annuaire-api](https://github.com/BaseAdresseNationale/annuaire-api)
