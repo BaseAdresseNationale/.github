@@ -15,6 +15,7 @@
 - [id-fix](https://github.com/BaseAdresseNationale/id-fix)
 - [mes-adresses-api](https://github.com/BaseAdresseNationale/mes-adresses-api)
 - [api-signalement](https://github.com/BaseAdresseNationale/api-signalement)
+- [validateur-api](https://github.com/BaseAdresseNationale/validateur-api)
 
 ## Service
 - [moissonneur-bal](https://github.com/BaseAdresseNationale/moissonneur-bal)
